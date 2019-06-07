@@ -1,1 +1,1 @@
-![alt tag] (pattern-search-with-kmp.jpg)
+![alt tag](pattern-search-with-kmp.jpg)
